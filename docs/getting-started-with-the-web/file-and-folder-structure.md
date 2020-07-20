@@ -3,12 +3,12 @@
 Mozilla proposes the following folder structure for a basic web project:
 
 ```
-project-folder <br>
-|-images <br>
-    example-image.jpg <br>
-    ... <br>
-|-scripts <br>
-|-styles <br>
-  index.html <br>
+project-folder
+|-images
+    example-image.jpg
+    ...
+|-scripts
+|-styles
+  index.html
 ```
 
