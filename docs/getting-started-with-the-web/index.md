@@ -4,3 +4,4 @@ Overview of web development for complete beginners.
 
 ### Contents
 1. [File and folder structure](file-and-folder-structure.md)
+2. [Basic HTML](basic-html.md)
